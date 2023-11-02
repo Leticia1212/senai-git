@@ -1,2 +1,4 @@
 # senai-git
-Readme de exemplo
+Repositório git senai
+
+fazendo uma alteração no readme
